@@ -1,5 +1,4 @@
-name := "scala-problems-interviews"
-
 version := "0.1"
+name := "scala-problems"
 
-scalaVersion := "2.13.5"
+scalaVersion := "2.13.18"

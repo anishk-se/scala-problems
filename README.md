@@ -1,78 +1,33 @@
-# The official repository for the Rock the JVM Scala & Functional Programming practice course
+<h1 align="center">Scala & Functional Programming Interview Practice</h1>
 
-This repository contains the code we wrote during  [Rock the JVM's Scala & Functional Programming Practice](https://rockthejvm.com/course/scala-functional-programming-practice) course. Unless explicitly mentioned, the code in this repository is exactly what was caught on camera.
+---
+<p align="center"><img src="./src/main/resources/tail_rec.jpeg" alt="Tail Rec"></p>
 
-## How to install
+---
 
-- install IntelliJ IDEA from [JetBrains](https://jetbrains.com)
-- open with IntelliJ as an SBT project
+<h3 align="center">Numbers</h3>
 
-### How to start
+1. #### Prime check
+2. #### Decompose into primes
+3. #### Enhancing Numbers
+4. #### Approximating pi
+5. #### Recurring Decimals
+6. #### Largest Number
+7. #### Reverse Integer
+8. #### Parse Integer
+9. #### Ugly Numbers
+10. #### Duplicates
 
-Clone this repository and checkout the `start` tag by running the following in the repo folder:
+---
+<h3 align="center">Strings</h3>
 
-```
-git checkout start
-```
-
-### How to see the final code
-
-Checkout the master branch:
-```
-git checkout master
-```
-
-### How to run an intermediate state
-
-The repository was built while recording the lectures. Prior to each lecture, I tagged each commit so you can easily go back to an earlier state of the repo!
-
-The tags are as follows:
-
-* `graphs-coloring`
-* `graphs-find-paths`
-* `graphs-intro`
-* `graphs-make-undirected`
-* `graphs-paths`
-* `lists-append`
-* `lists-big-3`
-* `lists-duplicate`
-* `lists-get-kth`
-* `lists-insert-sort`
-* `lists-length`
-* `lists-merge-sort`
-* `lists-prep`
-* `lists-quick-sort`
-* `lists-random-sample`
-* `lists-remove-kth`
-* `lists-reverse`
-* `lists-rle`
-* `lists-rotate`
-* `misc-eval`
-* `misc-n-queens`
-* `misc-sierpinski`
-* `numbers-approximate-pi`
-* `numbers-decompose`
-* `numbers-enhancing`
-* `numbers-primes`
-* `numbers-recurring-decimals`
-* `start`
-* `strings-anagram-checks`
-* `strings-count-chars`
-* `strings-generate-parentheses`
-* `strings-justify`
-* `strings-valid-parentheses`
-* `trees-collect-nodes-at-level`
-* `trees-intro`
-* `trees-leaves`
-* `trees-mirror`
-* `trees-same-shape`
-* `trees-size`
-
-When you watch a lecture, you can `git checkout` the appropriate tag and the repo will go back to the exact code I had when I started the lecture.
-
-### For questions or suggestions
-
-If you have changes to suggest to this repo, either
-- submit a GitHub issue
-- tell me in the course Q/A forum
-- submit a pull request!
+1. #### Count Chars
+2. #### Anagram Check
+3. #### Valid Parentheses
+4. #### Generate Valid Parentheses
+5. #### Justify
+6. #### Ransom Note
+7. #### Compare Version Numbers
+8. #### Multiply Strings
+9. #### Reorganize Strings
+10. #### Reverse Words
