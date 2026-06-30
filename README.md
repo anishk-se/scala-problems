@@ -61,5 +61,5 @@
 | Filter    | `filter`, `filterNot`, `partition`          |
 | Search    | `find`, `exists`, `forall`                  |
 | Aggregate | `fold`,`foldRight`, `reduce`, `reduceRight` |
-| Group     | `groupBy`                                   |
-| Info      | `count`, `size`, `isEmpty`, `nonEmpty`      |
+| Group     | `groupBy`, `groupMap`                       |
+| Info      | `size`, `isEmpty`, `nonEmpty`, `min`, `max` |
